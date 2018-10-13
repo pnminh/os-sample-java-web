@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World with OpenShift! Second Edition</h2>
+<h2>Hello World with OpenShift! With Webhook</h2>
 </body>
 </html>
